@@ -18,3 +18,8 @@ What are the error control mechanism?
 1.error detection
 2.error correction
 
+Write the four Error-Correcting Codes?
+1.Hamming codes
+2.Binary convolutional codes
+3.Reed-Solomon codes
+4.Low-Density Parity Check codes.
